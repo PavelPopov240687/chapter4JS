@@ -1,5 +1,5 @@
 function makePhrases() {
-    var words1 = ["24/7", "multi-tier", "30,000 foot", "B-to-B", "win-win"];
+    var words1 = ["Всю неделю", "multi-tier", "30,000 foot", "B-to-B", "win-win"];
     var words2 = ["empowered", "value-added", "oriented", "focused", "aligned"];
     var words3 = ["process", "solution", "tipping-point", "strategy", "vision"];
 
